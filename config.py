@@ -1,4 +1,4 @@
-username = "lucille--bluth"
+username = "Lucille--Bluth"
 password = "lucille"
-client_id = "RQq7WsOvqfmrzA"
-client_secret = "VuNG5K45V5NDqfXnFN_i_oYi3dQ"
+client_id = "zHJdCVnhHSoDGg"
+client_secret = "C_E3eKMXpA5u5R2hgn0DprF99f0"
